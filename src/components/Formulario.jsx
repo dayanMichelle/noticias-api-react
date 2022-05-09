@@ -25,6 +25,7 @@ const Formulario = () => {
           label="Categoría"
           onChange={handleChangeCategoria}
           value={categoria}
+          
         >
           {CATEGORIAS.map((categoria) => (
             <MenuItem key={categoria.value} value={categoria.value}>
