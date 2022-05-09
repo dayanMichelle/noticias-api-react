@@ -13,7 +13,7 @@ const ListadoNoticias = () => {
         component={"h2"}
         variant={"h3"}
       >
-        Últimas Noticias
+        Last News
       </Typography>
       <Grid 
         container

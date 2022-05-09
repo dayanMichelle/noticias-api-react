@@ -7,12 +7,12 @@ import {
 import useNoticias from "../hooks/useNoticias";
 const CATEGORIAS = [
   { value: "general", label: "General" },
-  { value: "business", label: "Negocios" },
-  { value: "entertainment", label: "Entretenimiento" },
-  { value: "health", label: "Salud" },
-  { value: "science", label: "Ciencia" },
-  { value: "sports", label: "Deportes" },
-  { value: "technology", label: "Tecnología" },
+  { value: "business", label: "Business" },
+  { value: "entertainment", label: "Entertainment" },
+  { value: "health", label: "Health" },
+  { value: "science", label: "Science" },
+  { value: "sports", label: "Sports" },
+  { value: "technology", label: "Technology" },
 ];
 
 const Formulario = () => {
